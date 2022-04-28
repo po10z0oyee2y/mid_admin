@@ -1,1 +1,1 @@
-python3 app.py runserver -h 0.0.0.0 -p 5002 -d -r 
+python3 app.py runserver -h 81.71.140.117 -p 5002 -d -r 
